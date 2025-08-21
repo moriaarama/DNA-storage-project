@@ -239,9 +239,11 @@ This implementation could be extended with:
 
 ## References
 
-1. Organick, L., et al. (2018). "Random access in large-scale DNA data storage." *Nature Biotechnology*, 36(3), 242-248.
 
-2. Erlich, Y., & Zielinski, D. (2017). "DNA Fountain enables a robust and efficient storage architecture." *Science*, 355(6328), 950-954.
+1. Erlich, Y., & Zielinski, D. (2017). "DNA Fountain enables a robust and efficient storage architecture." *Science*, 355(6328), 950-954.
+
+
+2. Organick, L., et al. (2018). "Random access in large-scale DNA data storage." *Nature Biotechnology*, 36(3), 242-248.
 
 3. Church, G. M., Gao, Y., & Kosuri, S. (2012). "Next-generation digital information storage in DNA." *Science*, 337(6102), 628.
 
@@ -250,5 +252,7 @@ This implementation could be extended with:
 5. Luby, M. (2002). "LT codes." *The 43rd Annual IEEE Symposium on Foundations of Computer Science*, 271-280.
 
 ## License
+
+This project is for educational purposes, demonstrating the principles of DNA storage and fountain coding algorithms.
 
 This project is for educational purposes, demonstrating the principles of DNA storage and fountain coding algorithms.
